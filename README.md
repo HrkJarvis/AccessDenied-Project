@@ -12,4 +12,4 @@ Prerequisite: The prerequisite of this project is the basic knowledge of python.
 As this is the desktop notifier application, we will be using the plyer module in our program.  The Plyer module does not come built-in with Python. To install it externally, write the following command on your terminal:
 
 pip install plyer
-bs6 pakage 
+
